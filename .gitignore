@@ -1,0 +1,4 @@
+.npm-cache
+implementation/sqlite_lab.db
+implementation/*.log
+.venv
